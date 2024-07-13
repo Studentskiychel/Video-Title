@@ -1,0 +1,29 @@
+
+@media (max-width: 368px) {
+    .video__title {
+        font-size: 24px;
+        padding-top: 50px;
+        padding-bottom: 20px;
+        line-height: 1.2;
+    }
+
+    .video__work {
+        font-size: 14px;
+        padding-bottom: 50px;
+        line-height: 1.4;
+    }
+
+    .video__look {
+        height: auto;
+    }
+
+    .video__button {
+        width: 100%;
+        max-width: 250px;
+    }
+
+    .video__image {
+        width: 40px;
+        height: 40px;
+    }
+}
